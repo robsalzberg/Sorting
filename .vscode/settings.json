@@ -1,5 +1,3 @@
 {
-    "python.linting.pylintEnabled": false,
-    "python.linting.pep8Enabled": true,
-    "python.linting.enabled": true
+    "python.pythonPath": "C:\\Users\\Rob\\.virtualenvs\\Sorting-RVEu-q4e\\Scripts\\python.exe"
 }
