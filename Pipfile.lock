@@ -53,6 +53,9 @@
             "version": "==1.25.3"
         }
     },
+<<<<<<< HEAD
+    "develop": {}
+=======
     "develop": {
         "astroid": {
             "hashes": [
@@ -167,4 +170,5 @@
             "version": "==1.11.1"
         }
     }
+>>>>>>> b6394be5ce515de57adf4e437870d382d509e551
 }
